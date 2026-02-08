@@ -21,8 +21,8 @@ Instead of manual sorting, this tool "listens" to the metadata of your music, un
 
 ## 📦 Installation
 
-### 1. Clone the Repository
 ```bash
+### 1. Clone the Repository
 git clone [https://github.com/YOUR_USERNAME/smart-vibe-sorter.git](https://github.com/YOUR_USERNAME/smart-vibe-sorter.git)
 cd smart-vibe-sorter
 
