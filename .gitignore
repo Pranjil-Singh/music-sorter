@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+venv/
+headers_auth.json
+oauth.json
+api_config.py
+.DS_Store
